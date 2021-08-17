@@ -1,0 +1,5 @@
+# The amount of entities that can be in a chunk at once.
+# Entity Types: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/entity/EntityType.html
+limits:
+  ITEM_FRAME: 100
+  PAINTING: 100
